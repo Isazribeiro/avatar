@@ -8,10 +8,7 @@ body {
 
 .avatar {
   width: 250px;
-  height: 250px; /* precisa ter altura */
   border-radius: 50%;
+  display: block;
   margin: 0 auto 20px auto;
-  background-image: url("https://www.canva.com/design/DAG46sQLV78/mMOj32FWpR8vZq14HN1e5w/edit?utm_content=DAG46sQLV78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton");
-  background-size: cover;
-  background-position: center;
 }
